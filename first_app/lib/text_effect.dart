@@ -1,11 +1,14 @@
 import 'package:flutter/material.dart';
 class TextEffect extends StatelessWidget{
-  const TextEffect({super.key});
+  const TextEffect(this.text ,{super.key});
+
+  final String text;
+
   @override
-  Widget build(ontext) {
+  Widget build(context) {
     return Text(
-              'Hello ,Shoumik !',
-              style: TextStyle(
+              text,
+              style: const TextStyle(
                 color: Colors.white,
                 fontSize: 30,
               ),
