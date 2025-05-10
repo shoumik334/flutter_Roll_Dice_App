@@ -12,8 +12,8 @@ web/** linguist-vendored
 
 # Exclude C++, C, Swift, CMake, and HTML files from stats
 *.cpp linguist-vendored
-*.c linguist-vendored
+# *.c linguist-vendored
 *.h linguist-vendored
-*.swift linguist-vendored
+# *.swift linguist-vendored
 *.cmake linguist-vendored
-*.html linguist-vendored
+# *.html linguist-vendored
