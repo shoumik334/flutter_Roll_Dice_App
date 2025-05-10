@@ -11,7 +11,7 @@ web/** linguist-vendored
 *.dart linguist-language=Dart
 
 # Exclude C++, C, Swift, CMake, and HTML files from stats
-#*.cpp linguist-vendored
+*.cpp linguist-vendored
 # *.c linguist-vendored
 *.h linguist-vendored
 # *.swift linguist-vendored
