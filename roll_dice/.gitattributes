@@ -6,4 +6,14 @@ windows/** linguist-vendored
 linux/** linguist-vendored
 web/** linguist-vendored
 
+
+# Treat all Dart files as Dart
 *.dart linguist-language=Dart
+
+# Exclude C++, C, Swift, CMake, and HTML files from stats
+*.cpp linguist-vendored
+*.c linguist-vendored
+*.h linguist-vendored
+*.swift linguist-vendored
+*.cmake linguist-vendored
+*.html linguist-vendored
