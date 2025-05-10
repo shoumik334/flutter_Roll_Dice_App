@@ -3,5 +3,5 @@
 A simple flutter project,that generates random dice number by clicking roll dice button
 
 
-https://github.com/user-attachments/assets/75a7fa46-fdc7-4212-b0a8-a79bf6710d93
 
+<img width="283" alt="Screenshot 2025-05-10 at 9 42 17 PM" src="https://github.com/user-attachments/assets/9f97cc88-dc25-4441-a307-5c420da8b0c3" />
