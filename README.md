@@ -1,6 +1,6 @@
 # Roll Dice App
 
-A simple flutter project,that generates random dice number by clicking ###"Roll dice" button
+A simple flutter project,that generates random dice number by clicking "Roll dice" button
 
 
 
