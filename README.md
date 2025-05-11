@@ -4,4 +4,5 @@ A simple flutter project,that generates random dice number by clicking "Roll dic
 
 
 
-<img width="283" alt="Screenshot 2025-05-10 at 9 42 17 PM" src="https://github.com/user-attachments/assets/9f97cc88-dc25-4441-a307-5c420da8b0c3" />
+
+![ScreenRecording2025-05-10at9 40 14PM-ezgif com-resize](https://github.com/user-attachments/assets/5847a1e7-1ce2-4214-a368-7ee726cb5abe)
